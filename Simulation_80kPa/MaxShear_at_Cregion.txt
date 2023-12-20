@@ -1,6 +1,0 @@
-% Model:              20230907_silksimulation_80kPa.mph
-% Version:            COMSOL 6.1.0.357
-% Date:               Oct 2 2023, 21:12
-% Table:              テーブル 2 - Bregion
-% せん断速度 (1/s)                                     spf.sr*spf.mu (Pa)
-41480.19725155929                                 62.105659080216384
